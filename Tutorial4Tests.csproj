@@ -23,4 +23,8 @@
       <ProjectReference Include="..\Tutorial4\Tutorial4.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Include="Tutorial4.csproj" />
+    </ItemGroup>
+
 </Project>

@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "x6ecBIGsm0A=",
-  "success": false,
+  "dgSpecHash": "lRz6yG6SJjM=",
+  "success": true,
   "projectFilePath": "/Users/makskozub/Downloads/Tutorial5/Tutorial4Tests/Tutorial4Tests.csproj",
   "expectedPackageFiles": [
     "/Users/makskozub/.nuget/packages/coverlet.collector/6.0.2/coverlet.collector.6.0.2.nupkg.sha512",
@@ -22,15 +22,5 @@
     "/Users/makskozub/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
     "/Users/makskozub/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for '/Users/makskozub/Downloads/Tutorial5/Tutorial4/Tutorial4.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "/Users/makskozub/Downloads/Tutorial5/Tutorial4/Tutorial4.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }
